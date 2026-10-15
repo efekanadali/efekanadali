@@ -1,109 +1,79 @@
-<!-- HEADER BANNER: Modern Gradient Waving Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=220&section=header&text=Efekan%20Adal%C4%B1&fontSize=48&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Backend%20%26%20Systems%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <h1>Hi there, I'm Efekan Adalı 👋</h1>
+  <p><strong>Computer Engineering Student & Backend / Systems Focused Software Engineer</strong></p>
+  <p>Building scalable backend architectures, exploring telecommunications & SDR systems, and integrating applied AI pipelines.</p>
 </div>
 
-<!-- DYNAMIC TYPING SVG: Animated Titles -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=550&lines=Backend+%26+Microservices+Architect;T%C3%9CB%C4%B0TAK+2209-A+Project+Lead+(RescueWing);VP+%40+Huawei+Student+Developers+%C4%B0n%C3%B6n%C3%BC;Applied+AI+%26+RAG+Pipeline+Developer;Flutter+%26+Mobile+Engineering" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<!-- SOCIAL & CONTACT BAR (Direct Gmail Web Integration) -->
-<div align="center">
-  <a href="https://linkedin.com/in/efekanadalı" target="_blank">
+  <a href="https://linkedin.com/in/efekanadalı">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=efekann.adali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/efekan_adali53/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
 
----
+### 👨‍💻 About Me
 
-### ⚡ Hakkımda & Odak Alanlarım
-
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>İnönü Üniversitesi</b> Bilgisayar Mühendisliği son sınıf öğrencisi.</li>
-        <li>⚙️ <b>Backend & Sistemler:</b> <code>Java</code>, <code>Spring Boot</code>, <code>PostgreSQL</code>, <code>MongoDB</code> ve <code>Redis</code> ile ölçeklenebilir mikrohizmet mimarileri.</li>
-        <li>📡 <b>Ar-Ge & Telekomünikasyon:</b> Afet iletişimi için SDR tabanlı taşınabilir LTE mikro-baz istasyonu geliştirdiğim <b>TÜBİTAK 2209-A</b> (RescueWing) proje yürütücülüğü.</li>
-        <li>🤖 <b>Uygulamalı Yapay Zeka:</b> <code>FastAPI</code>, <code>ChromaDB</code> ve modern LLM entegrasyonlarıyla RAG mimarileri ve bilgisayarlı görü (YOLO).</li>
-        <li>👥 <b>Liderlik & Topluluk:</b> <b>Huawei Student Developers (HSD) İnönü</b> Başkan Yardımcısı & Teknik Proje Komitesi Yöneticisi.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
-    </td>
-  </tr>
-</table>
+- 🎓 **Senior Computer Engineering Student** at İnönü University (Class of 2027).
+- ⚙️ **Core Focus:** Enterprise backend systems, clean microservices architectures, and distributed caching using **Java, Spring Boot, PostgreSQL, MongoDB, and Redis**.
+- 📡 **Applied R&D & Systems:** Authoring a TÜBİTAK 2209-A research initiative (*RescueWing*) developing SDR-based portable LTE micro-base stations via **LimeSDR, Open5GS, and srsRAN**.
+- 🤖 **Applied AI & ML:** Building end-to-end Retrieval-Augmented Generation (RAG) platforms and computer vision pipelines (**FastAPI, ChromaDB, React, YOLO**).
+- 👥 **Leadership & Tech Community:** Vice President & Technical Project Lead at **Huawei Student Developers (HSD) İnönü**.
+- 📱 **Mobile Development:** Architecting state-managed mobile applications with **Flutter & Riverpod**, including algorithmic workload modeling.
 
 ---
 
-### 🛠️ Teknoloji & Mühendislik Araç Seti
+### 🛠️ Tech Stack & Engineering Toolkit
 
-<div align="center">
-  <p><b>Temel Mühendislik Teknolojileri</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,docker,linux,git,python,fastapi,flutter,dart,react,postman&theme=dark" alt="Skill Icons" />
-  </a>
-</div>
+#### Backend & Architecture
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-333333?style=flat-square&logo=diagram-next&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4A90E2?style=flat-square)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square)
 
-<br/>
+#### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square)
 
-<div align="center">
+#### Applied AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Architecture-6C5CE7?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/YOLO_Vision-00D2D3?style=flat-square)
 
-| Kategori | Teknolojiler & Prensipler |
-| :--- | :--- |
-| **Backend & Core** | Java, Spring Boot, Spring Security, RESTful APIs, Clean Architecture, SOLID |
-| **Veri Tabanı & Önbellek** | PostgreSQL, MongoDB, Redis, ChromaDB (Vector Indexing) |
-| **Ar-Ge & Telekomünikasyon** | LimeSDR, Open5GS, srsRAN, Private LTE Architectures |
-| **Yapay Zeka & Mobil** | FastAPI, RAG Pipelines, YOLO Vision, Flutter, Riverpod |
-| **DevOps & Ortam** | Docker, Docker Compose, Linux, Git / GitHub |
+#### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-2C3E50?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-</div>
-
----
-
-### 🚀 Öne Çıkan Projeler
-
-<div align="center">
-
-| Proje | Açıklama | Teknoloji Yığını |
-| :--- | :--- | :--- |
-| **[RescueWing (TÜBİTAK 2209-A)](https://github.com/efekanadali)** | Afet sonrası hücresel iletişim kesintilerini gidermek için SDR tabanlı taşınabilir LTE mikro-baz istasyonu. | `LimeSDR` `Open5GS` `srsRAN` `Linux` |
-| **[RAG Study Assistant](https://github.com/efekanadali)** | Belgeler üzerinden anlamsal arama ve vektör indeksleme yapan yapay zeka destekli asistan platformu. | `FastAPI` `ChromaDB` `Python` `React` |
-| **[AntrenmanKoçum](https://github.com/efekanadali)** | Biyomekanik iş yükü modellemesi (MWI) içeren algoritmik kalistenik ve antrenman takip mobil uygulaması. | `Flutter` `Dart` `Riverpod` `SQLite` |
-| **[HSD Community Platform](https://github.com/efekanadali)** | HSD İnönü topluluk yönetimi ve etkinlik platformu; monorepo mimarisi ve konteynerizasyon pratiği. | `React` `PostgreSQL` `Docker Compose` |
-
-</div>
+#### DevOps & Systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1488C6?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SDR / Open5GS](https://img.shields.io/badge/SDR_&_Private_LTE-E67E22?style=flat-square)
 
 ---
 
-### 📊 GitHub İstatistikleri & Metrikler
+### 🚀 Key Projects & Initiatives
+
+* **[RescueWing (TÜBİTAK 2209-A)]():** Portable, SDR-driven LTE micro-base station designed for post-disaster communication outages utilizing Open5GS and srsRAN architectures.
+* **[RAG Study Assistant]():** Full-stack open-source document retrieval assistant utilizing LangChain/LlamaIndex principles, ChromaDB vector indexing, and FastAPI backends.
+* **[AntrenmanKoçum]():** Mobile calisthenics tracking platform with a custom algorithmic engine calculating biomechanical workload metrics (MWI) powered by Flutter & Riverpod.
+* **[HSD Community Platform]():** Multi-service web platform containerized with Docker Compose, integrating React frontends and PostgreSQL persistence layers.
+
+---
+
+### 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efekanadali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=efekanadali&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efekanadali&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=efekanadali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Efekan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efekanadali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
